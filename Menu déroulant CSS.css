@@ -1,0 +1,17 @@
+.menu>li{list-style:none; display:inline-block; margin:5px;}
+.menu>li>a{display:inline-block; padding:10px; font-size:1.5em; color:Black; text-decoration:none;}
+
+.services{position:relative;}
+.sousmenu{position:absolute; width:100%; max-height:0; overflow:hidden;padding:0; margin:5px 0; left:0;}
+.services:hover .sousmenu {max-height:150px;}
+.sousmenu>li{text-align:center; background-color:#777; line-height:1.5em; font-size:1em; padding:5px 0; border:1px solid #FFF;}
+.sousmenu>li>a{text-decoration:none; display:inline-block; width:100%; color:#FFF;}
+.sousmenu>li:hover {background:#39C;}
+
+
+
+
+
+
+
+.menu>li:hover{border-bottom:4px solid #39C; }

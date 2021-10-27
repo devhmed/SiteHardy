@@ -1,0 +1,8 @@
+.menu li {list-style:none; display:inline; border:2px solid blue; padding:4px; margin:5px; background-color:#bbb; border-radius:10px}
+.menu a {color:Black; text-decoration:none;}
+#Accueil {}
+
+
+.menu li.activ {background-color:white;border-bottom:0px;}
+.menu li:hover {Background-color:#ecc;}
+ul {float:center;}
